@@ -1,5 +1,5 @@
 import arcade
-
+"""Blah blah blah """
 class MyGame(arcade.Window):
     def __init__(self) -> None:
         super().__init__(800, 800, "My awesome game")
